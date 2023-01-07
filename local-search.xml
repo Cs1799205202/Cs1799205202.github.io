@@ -11,10 +11,16 @@
     <content type="html"><![CDATA[<h1 id="模型评估与选择"><a href="#模型评估与选择" class="headerlink" title="模型评估与选择"></a>模型评估与选择</h1><h2 id="2-4-评估方法"><a href="#2-4-评估方法" class="headerlink" title="2.4 评估方法"></a>2.4 评估方法</h2><h3 id="如何获得“测试集”（test-set）？"><a href="#如何获得“测试集”（test-set）？" class="headerlink" title="如何获得“测试集”（test set）？"></a>如何获得“测试集”（test set）？</h3><h4 id="常见方法"><a href="#常见方法" class="headerlink" title="常见方法"></a>常见方法</h4><ul><li>留出法（hold-out)</li><li>交叉验证法（cross validation)</li><li>自助法（bootstrap)</li></ul><h4 id="原则：测试集应该与训练集“互斥”"><a href="#原则：测试集应该与训练集“互斥”" class="headerlink" title="原则：测试集应该与训练集“互斥”"></a>原则：测试集应该与训练集“互斥”</h4><p><img src="https://cttts-oss.oss-cn-shanghai.aliyuncs.com/img/image-20230107170338581.png" alt="image-20230107170338581"></p>]]></content>
     
     
+    <categories>
+      
+      <category>机器学习初步（2022秋）</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>机器学习初步（2022秋）</tag>
+      <tag>机器学习</tag>
       
     </tags>
     
