@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>计算机组织结构 第十六讲 - 控制器</title>
+    <link href="/2023/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84-%E7%AC%AC%E5%8D%81%E5%85%AD%E8%AE%B2-%E6%8E%A7%E5%88%B6%E5%99%A8/"/>
+    <url>/2023/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84-%E7%AC%AC%E5%8D%81%E5%85%AD%E8%AE%B2-%E6%8E%A7%E5%88%B6%E5%99%A8/</url>
+    
+    <content type="html"><![CDATA[<h1 id="控制器"><a href="#控制器" class="headerlink" title="控制器"></a>控制器</h1><h2 id="处理器结构"><a href="#处理器结构" class="headerlink" title="处理器结构"></a>处理器结构</h2><p><img src="https://cttts-oss.oss-cn-shanghai.aliyuncs.com/img/image-20230108091346122.png" alt="image-20230108091346122"></p><p>CPU主要组成部分：ALU、寄存器、控制器（右图），通过<strong>CPU内部总线</strong>连接</p><blockquote><p>复习：总线分为<strong>芯片内部总线、系统总线（如连接CPU和内存的总线，分为控制总线、数据总线、地址总线）、通信总线</strong></p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>2022秋季学期</category>
+      
+      <category>计算机组织结构</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>计组</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>机器学习初步 第二章 - 模型评估与选择</title>
     <link href="/2023/01/07/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%88%9D%E6%AD%A5-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9/"/>
     <url>/2023/01/07/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%88%9D%E6%AD%A5-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9/</url>
